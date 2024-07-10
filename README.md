@@ -3,7 +3,7 @@ Dive into the world of data analysis with this interactive Excel project! This r
 
 ✨ Sales Performance ✨
 
-[Sample Projection of work](https://github.com/MissNeerajSharma/Excel-Project/blob/main/Screenshot%202024-07-10%20194135.png)
+![Sample Projection of work](https://github.com/MissNeerajSharma/Excel-Project/blob/main/Screenshot%202024-07-10%20194135.png)
 Understanding the Performance Scorecard 🧩
 The performance scorecard is a vital tool in our strategic arsenal. It tracks key metrics such as Revenue, Wins, Revenue per Win, Pipeline, Leads, and Pipeline per Lead. By comparing the current quarter (CQ) with the previous quarter (PQ), it provides a clear picture of our performance, highlighting both achievements and areas needing attention.
 
@@ -28,6 +28,6 @@ Continuous Improvement: Committed to continuously improving our data processes a
 
 ## Watch the Demo Video
 
-[Watch the demo video]([https://github.com/yourusername/yourrepo/blob/main/path/to/Recording%202024-07-10%20193346.mp4](https://github.com/MissNeerajSharma/Excel-Project/blob/main/Recording%202024-07-10%20193346.mp4))
+![Watch the demo video]([https://github.com/yourusername/yourrepo/blob/main/path/to/Recording%202024-07-10%20193346.mp4](https://github.com/MissNeerajSharma/Excel-Project/blob/main/Recording%202024-07-10%20193346.mp4))
 
 Click on the link to watch the video.
